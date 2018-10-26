@@ -65,3 +65,19 @@
   background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
+
+.hat1 {
+  height: 10px;
+  width: 40%;
+  background: #ad370b;
+  border-radius: 90px 90px 90px 90px;
+  }
+
+
+  .hat2 {
+    height: 60px;
+    width: 20%;
+    background: #ad370b;
+    border-radius: 200px 200px 20px 20px;
+  }
+  
